@@ -86,7 +86,7 @@ const portfolioData = {
   ═══════════════════════════════════════════════════════════════════════ */
   projects: [
     {
-      title: "Breakneck Shopping Spree V2",
+      title: "Breakneck Shopping Spree V2( Hallo)",
       category: "Oxymoron OST",
       problem: "Made this for a friend who is developing a roblox game, Oxymoron. This would be the main shop theme.",
       solution: "My friend wanted it to ideally be in the Breakcore genre. However, coming up with a melody at 200 BPM was hard. So, I slowed it down and made a melody before speeding it back up again, which turned out pretty well. ",

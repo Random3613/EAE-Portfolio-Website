@@ -7,12 +7,12 @@ const portfolioData = {
   ═══════════════════════════════════════════════════════════════════════ */
   personal: {
     name: "Chua Tien Long Dylan (Random) ",
-    tagline: "Musician • Creator • Programmer",
-    profileImage: "Pictures/Joey.jpeg",
+    tagline: "Musician • Creator • Chud",
+    profileImage: "Pictures/picture.jpeg",
     about: [
-      "Hi. My name is Dylan, obviously enough from the start of this portfolio. Online friends know me as Random. I am a drummer and self taught composer who makes songs for his friends.",
-      "Music is something I turn to for basically anything ever since I was a kid. Even playing video games, I look out more for the music than the actual gameplay, which I why I am a big fan of rhythm games, which have a very big connection to music. ",
-      "If it wasn't obvious enough, I love music and I hope for nothing more than to be a professional performer and composer. So here's every reason why I am a decent musician."
+      "Yes, that's me. I suppose I should start from the beginning. Hi. My name is Dylan, obviously enough from the start of this portfolio. Online friends know me as Random. I am a drummer and self taught composer who makes songs for his friends. I am also a small time content creator on youtube who makes roblox videos for fun.",
+      "Music is something I turned to for basically anything ever since I was a kid. Even playing video games, I look out more for the music than the actual gameplay, which I why I am a big fan of rhythm games, which have a very big connection to music. As for content creation, I pretty sure everyone has dreamed of being a youtuber at some point. I took that dream one step further and started a youtube channel.",
+      "If it wasn't obvious enough, I love music and I hope for nothing more than to be a professional performer and composer. I also hope to be an actual content creator so I can not only create videos, but upload my music for the world to see. So here's every reason why I am a decent musician and a somewhat decent musician."
     ]
   },
 
@@ -31,9 +31,9 @@ const portfolioData = {
       description: "I play an acoustic guitar, which I am Grade 5 in. Other than that, not really any notable achievements for this instrument. "
     },
     {
-      icon: "🎤",
-      name: "Vocals",
-      description: "I am too shy to sing in front of friends, however I have sung quite a few songs in karaoke sessions, ironically, with friends."
+      icon: "📺",
+      name: "Content Creation",
+      description: "I can edit videos, not very well though. Not much worth mentioning here. My channel mainly consists of raw footage, and the only thing I did edit was butchered incredibly badly by Youtube. "
     },
     {
       icon: "🎧",
@@ -57,13 +57,13 @@ const portfolioData = {
       icon: "🥁",
       title: "Drum Competition Finals",
       category: "Music",
-      date: "[Date Here]",
-      organisation: "[Organisation Name Here]",
-      description: "[Achievement Description Here]",
-      reflection: "[Insert Reflection Here]",
-      learningOutcome: "[What you learned from this experience]",
-      imagePath: "images/achievements/achievement-1.png", // EDIT HERE: Add achievement photo path
-      certificatePath: "images/certificates/certificate-1.pdf" // EDIT HERE: Add certificate file path
+      date: "30 November 2025, 2023",
+      organisation: "Hosted at Acid Bar.",
+      description: "After a bit of reluctance and a bit of gentle coaxing from my drum teacher, I signed up for the first drum competition back in 2023. After that, I had enjoyed it so much I signed up for a second go around in 2025. Unfortunately, both times I had only achieved participation awards, and 2025 didn't even hand the participation awards a certificate, so you'll just have to take the registration tag as proof that it actually happened.",
+      reflection: "It was incredibly fun, and although I didn't win, I'm happen that I toughened up and did it.",
+      learningOutcome: "Never be afraid to try new experiences. Even if it sounds ridiculous, give it a shot. Might not be so ridiculous after all.",
+      imagePath: "Pictures/Drum finals markers.jpeg", // EDIT HERE: Add achievement photo path
+      certificatePath: "Pictures/Drum finals markers.jpeg" // EDIT HERE: Add certificate file path
     },
     {
       icon: "🏐",
@@ -71,7 +71,7 @@ const portfolioData = {
       category: "Sports",
       date: "2024",
       organisation: "Pasir Ris Crest Secondary School",
-      description: "Managed to skip three exams and multiple hours worth of lessons by going to the competitions. However, we got steamrolled and lost all our matches. ",
+      description: "Managed to skip three exams and multiple hours worth of lessons by going to the competitions. However, we got steamrolled and lost all our matches. No certificate here, for obvious reasons.",
       reflection: "I didn't reallly do much during the season. However, I do wish I encouraged my teammates more. Instead, I sat back and chose to do nothing.",
       learningOutcome: "I learnt three things. One, support is always a crucial factor in anything, especially so with a team. Two, my school isn't good at volleyball. Three, you win some, you lose some. Or in this case, you win none, you lose all.",
       imagePath: "Nil.", // EDIT HERE: Add achievement photo path
@@ -159,16 +159,16 @@ const portfolioData = {
   ═══════════════════════════════════════════════════════════════════════ */
   certifications: [
     {
-      title: "[Certificate Title Here]",
-      issuer: "[Issuing Organisation Here]",
-      date: "[Date Here]",
-      filePath: "images/certificates/certificate-1.pdf" // EDIT HERE: Add certificate file path
+      title: "Drum and Guitar Certifications.",
+      issuer: "Trinity College London",
+      date: "10 April 2025 (Drum), 6 October 2025 (Guitar)",
+      filePath: "Pictures/Music serts.jpeg" // EDIT HERE: Add certificate file path
     },
     {
-      title: "[Certificate Title Here]",
-      issuer: "[Issuing Organisation Here]",
-      date: "[Date Here]",
-      filePath: "images/certificates/certificate-2.pdf"
+      title: "Best Level Design Award. Roblox Global Goals Challenge Competition (Senior)",
+      issuer: "Kodecoon Academy (Completely unrelated to the portfolio, but worth mentioning)",
+      date: "20 December 2025",
+      filePath: "Pictures/Unrelated sert.jpeg"
     }
   ]
 

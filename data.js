@@ -140,13 +140,13 @@ const portfolioData = {
     {
       title: "Breaking News",
       category: "Music Composition",
-      problem: "[Describe the challenge or purpose of this project]",
-      solution: "[Describe how you approached it]",
-      myRole: "[Describe your role]",
-      technologiesUsed: "[List tools, instruments, or software used]",
-      journey: "[Describe the creative process]",
-      outcome: "[Describe the result]",
-      lessonsLearned: "[Insert Reflection Here]",
+      problem: "The only one of my projects that wasn't for a game or for an animation. This was a track made after a friend asked me to help her with the BGM of her homework.",
+      solution: "She specifically asked for a full length, 4 minute song as she was going to edit it into a recorded video for her school project. In the end, I think it turned out great. ",
+      myRole: "Main composer, arranger, producer",
+      technologiesUsed: "Bandlab",
+      journey: "However, after I had finished the first draft of the song without her saying a word, she spoke up as I was about to send the file that she didn't like it. Needless to say, I got pretty mad after she had me waste 4 HOURS on a song that she didn't even like. I had even asked her multiple times while letting her listen to the draft if she liked it, and she always answered with a fine or okay. After taking a break from music for about 2 weeks, I returned and created this version of the song, a totally different song from the original. This time, I had made sure to confirm that she liked my current progress before moving on.",
+      outcome: "A cheerful, but not attention grabbing song. Perfect for the ambience of a teenage news broadcast. ",
+      lessonsLearned: "I learnt about the significance of the effort real life musicians put into their songs. I had already burnt myself out after composing a minute and 30 seconds of the song. So, this is a testament to the dedication and effort real musicians put in to their craft",
       imagePath: "Pictures/Screenshot 2026-06-14 172414.png",
       videoLink: "Music/Breaking_News.mp3"
     }
